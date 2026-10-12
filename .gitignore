@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+# 工作目录产物
+_clean.pdf
+_chunk*.pdf
+_cache.key
+src_p*.png
+cln_p*.png
+
+# specimen.py 产物
+字体字号方案样张*.pdf
+_specimen_p*.png

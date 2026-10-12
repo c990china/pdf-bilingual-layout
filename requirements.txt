@@ -1,0 +1,8 @@
+# pdf-bilingual-layout 依赖
+# 安装命令：pip install -r requirements.txt
+
+# PDF 内容流操作、文本写入与渲染 —— 必须 ≥ 1.28（<1.28 的 redact 常量名不同）
+PyMuPDF>=1.28.0
+
+# 底色采样与像素分析（03_build.py 的 bg_analysis）
+Pillow>=10.0.0
